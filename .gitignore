@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 
-\results
-**\test.py
-.idea\**
+results
+**/test.py
+.idea/**
 
 __pycache__/
 *.py[codz]
