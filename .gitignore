@@ -2,6 +2,7 @@
 
 \results
 **\test.py
+.idea\**
 
 __pycache__/
 *.py[codz]
